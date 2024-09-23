@@ -18,7 +18,7 @@
 <table>
 	<tr>
 		<td><a href="https://www.lightpollutionmap.info/s/hFY6YAX9UUuGiV09HGFahA"></a></td>
-		<td><a href="https://www.lightpollutionmap.info/s/hFY6YAX9UUuGiV09HGFahA"><img src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" /></a></td>
+		<td><a href="https://www.lightpollutionmap.info/s/hFY6YAX9UUuGiV09HGFahA"><img height="225" src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" /></a></td>
 		<td><a href="https://clearoutside.com/forecast/50.49/10.06"><img src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a></td>
 	</tr>
 </table>
