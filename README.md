@@ -20,7 +20,7 @@
 		<td>
 			<a href="https://www.lightpollutionmap.info/s/hFY6YAX9UUuGiV09HGFahA"><img src="https://github.com/user-attachments/assets/00575749-7ce8-4b26-a0f5-0b3887bc31cb" /></a></td>
 		<td>
-			dasda
+			<img src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" />
 		</td>
 		<td>
 			<a href="https://clearoutside.com/forecast/50.49/10.06"><img src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a>
