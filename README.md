@@ -14,16 +14,5 @@
 		</td>
 	</tr>
 </table>
-
-<table>
-	<tr>
-		<td>
-			<a href="https://www.lightpollutionmap.info/s/hFY6YAX9UUuGiV09HGFahA"><img src="https://github.com/user-attachments/assets/00575749-7ce8-4b26-a0f5-0b3887bc31cb" /></a></td>
-		<td>
-			<img src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" />
-		</td>
-		<td>
-			<a href="https://clearoutside.com/forecast/50.49/10.06"><img src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a>
-		</td>
-	</tr>
-</table>
+sdfs
+<table><tr><td><img src="https://github.com/user-attachments/assets/8c7c2cdf-2ad0-48a2-bfb8-e1a1d4d63c73" /></td><td><img src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" /></td><td><a href="https://clearoutside.com/forecast/50.49/10.06"><img src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a></td></tr></table>
