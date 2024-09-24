@@ -14,7 +14,7 @@
     </td>
   </tr>
 </table>
-<a href="https://www.google.com/maps/d/embed?mid=14zA79ebtdjwcM8HQPl6ziIk9ogPAYO0&ehbc=2E312F&noprof=1" ><img width="100%" src="https://github.com/user-attachments/assets/8cd66afa-a54e-436a-a217-dcc6e9f93cc3" /></a>
+<a href="https://www.google.com/maps/d/embed?mid=14zA79ebtdjwcM8HQPl6ziIk9ogPAYO0&ehbc=2E312F&noprof=1" ><img width="100%" src="https://github.com/user-attachments/assets/da685dd6-68f8-4eb5-8d69-6fb1788c81ec" /></a>
 <table>
   <tr>
     <td>
