@@ -40,4 +40,10 @@
       <a href="https://www.lightpollutionmap.info/#zoom=15.00&lat=52.97900&lon=11.42535"><img align="top" width="25%" src="https://github.com/user-attachments/assets/3b873917-255e-41b5-99f3-79821016162d" /></a><a href="https://maps.app.goo.gl/Uv94LnMucTtmzqNw6"><img width="18.8%" src="https://github.com/user-attachments/assets/a404fea7-1fc1-4354-9728-fc3c70277e42" /></a><a href="https://clearoutside.com/forecast/52.98/11.43/"><img width="56.2%" src="https://clearoutside.com/forecast_image_medium/52.98/11.43/forecast.png" /></a>
     </td>
   </tr>
+  <tr>
+    <td>
+      $\textcolor{#9C27B0}{5\hspace{10px}\rule{10px}{10px}}$<br />
+      <a href="https://www.lightpollutionmap.info/#zoom=15.00&lat=52.03885&lon=14.10776"><img align="top" width="25%" src="https://github.com/user-attachments/assets/6d598e38-865d-43e8-a891-2055c7110bff" /></a><a href="https://maps.app.goo.gl/pc39QAJH3Ujponx17"><img width="18.8%" src="https://github.com/user-attachments/assets/33b83cc5-1dce-47af-8d36-54a358d4a3d6" /></a><a href="https://clearoutside.com/forecast/52.04/14.11/"><img width="56.2%" src="https://clearoutside.com/forecast_image_medium/52.04/14.11/forecast.png" /></a>
+    </td>
+  </tr>
 </table>
