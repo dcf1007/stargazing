@@ -1,5 +1,5 @@
 # Stargazing
-<a target="blank"
+<a target="blank" rel="noopener"
 	style="text-decoration:none;"
 	href="https://moonphase.guide/">
 		<img src="https://moonphase.guide/module/MejdEa3N3bUcvQXFCQlQ5NEJqR2t6VWVYVE0ybnh1a3dmT05FVGluMWFKRzFaeUo0d29yWUxNVXhMeFloZEgwb0VBY085Qm1YTXZYTDdFWDVDQmcrMFE9PQ.png" />
