@@ -3,18 +3,18 @@
 <table align="center">
   <tr>
     <td align="right">
-      <a target="blank" href="https://moonphase.guide/">
+      <a target="_blank" href="https://moonphase.guide/">
       <img height="400" src="https://moonphase.guide/module/MNjY5a3FNUmpsMzVlS3E2UjBUOTVjeXkweFBYQy9jSHc4cG4yajRPdkdnYlp5TVQ3SzBZWk5YcHF3ektFRTV6Qi9kSEJiOWsxZG4rL3R5Vlk2SmtMdnc9PQ.png" />
       </a>
     </td>
     <td align ="left">
-      <a target="blank" href="https://clearoutside.com/annual_darkness/50.93/11.59">
+      <a target="_blank" href="https://clearoutside.com/annual_darkness/50.93/11.59">
       <img height="400" src="https://clearoutside.com/annual_darkness_image/50.93/11.59/annual_darkness.png" />
       </a>
     </td>
   </tr>
 </table>
-<a target="blank" href="https://www.google.com/maps/d/embed?mid=14zA79ebtdjwcM8HQPl6ziIk9ogPAYO0&ehbc=2E312F&noprof=1" ><img width="100%" src="https://github.com/user-attachments/assets/8cd66afa-a54e-436a-a217-dcc6e9f93cc3" /></a>
+<a target="_blank" href="https://www.google.com/maps/d/embed?mid=14zA79ebtdjwcM8HQPl6ziIk9ogPAYO0&ehbc=2E312F&noprof=1" ><img width="100%" src="https://github.com/user-attachments/assets/8cd66afa-a54e-436a-a217-dcc6e9f93cc3" /></a>
 <table>
   <tr>
     <td>
