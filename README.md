@@ -17,12 +17,10 @@
 sdfs
 <table>
 	<tr>
-		<td>1</td>
-		<td><img height="250" src="https://github.com/user-attachments/assets/2746f76c-72c9-422e-bb33-3d7ebd25d7f5" /><img  height="250" src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" /><br /><a href="https://clearoutside.com/forecast/50.49/10.06"><img  height="250" src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a></td>
+		<td bgcolor= "blue">1<br /><img align="top" width="25%" src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" /><img width="18.8%" src="https://github.com/user-attachments/assets/2746f76c-72c9-422e-bb33-3d7ebd25d7f5" /><a href="https://clearoutside.com/forecast/50.49/10.06"><img width="56.2%" src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a></td>
 	</tr>
 	<tr>
-		<td>2</td>
-		<td><img src="https://github.com/user-attachments/assets/8c7c2cdf-2ad0-48a2-bfb8-e1a1d4d63c73" />
+		<td>2<img src="https://github.com/user-attachments/assets/8c7c2cdf-2ad0-48a2-bfb8-e1a1d4d63c73" />
 		<img src="https://github.com/user-attachments/assets/76ecaebb-be9b-44b0-ae99-a41f4c9b54df" />
 		<a href="https://clearoutside.com/forecast/50.49/10.06"><img src="https://clearoutside.com/forecast_image_medium/50.49/10.06/forecast.png" /></a></td>
 	</tr>
