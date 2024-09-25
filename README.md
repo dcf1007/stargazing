@@ -2,15 +2,9 @@
 ## Location status
 <table align="center">
   <tr>
-    <td align="right">
-      <a href="https://moonphase.guide/">
-      <img height="400" src="https://moonphase.guide/module/MNjY5a3FNUmpsMzVlS3E2UjBUOTVjeXkweFBYQy9jSHc4cG4yajRPdkdnYlp5TVQ3SzBZWk5YcHF3ektFRTV6Qi9kSEJiOWsxZG4rL3R5Vlk2SmtMdnc9PQ.png" />
-      </a>
-    </td>
-    <td align ="left">
-      <a href="https://clearoutside.com/annual_darkness/50.93/11.59">
-      <img height="400" src="https://clearoutside.com/annual_darkness_image/50.93/11.59/annual_darkness.png" />
-      </a>
+    <td align="center">
+      <a href="https://moonphase.guide/"><img width="31.2%" src="https://moonphase.guide/module/MNjY5a3FNUmpsMzVlS3E2UjBUOTVjeXkweFBYQy9jSHc4cG4yajRPdkdnYlp5TVQ3SzBZWk5YcHF3ektFRTV6Qi9kSEJiOWsxZG4rL3R5Vlk2SmtMdnc9PQ.png" /></a>
+      <a href="https://clearoutside.com/annual_darkness/50.93/11.59"><img width="50%" src="https://clearoutside.com/annual_darkness_image/50.93/11.59/annual_darkness.png" /></a>
     </td>
   </tr>
 </table>
